@@ -1,19 +1,5 @@
-# zn-dev-server
+# zn-dev-server ---- 自己搭建的开发环境
 
-## Project setup
 ```
-yarn install
+yarn serve:zn
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
